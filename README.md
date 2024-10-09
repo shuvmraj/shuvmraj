@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Raj</h1>
 <h3 align="center">A passionate software developer from India</h3>
+An image of @shuvmraj's Holopin badges, which is a link to view their full Holopin profile(https://holopin.me/shuvmraj)](https://holopin.io/@shuvmraj)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvmraj&label=Profile%20views&color=0e75b6&style=flat" alt="shuvmraj" /> </p>
 
