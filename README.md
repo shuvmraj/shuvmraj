@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://shuvmraj.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-shuvmraj.netlify.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shubhamrajcse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shubhamraj.v16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shubham1003sinha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=shuvmraj&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="shuvmraj" />
 </p>
 
@@ -36,21 +36,7 @@ fun_fact: 300+ problems solved, still losing to my own edge cases
 ### 🧰 Tech Arsenal
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,nextjs,spring,mongodb,mysql,gcp,docker,jenkins,kubernetes,linux,figma&theme=dark" alt="tech stack" />
 </p>
 
 ---
@@ -58,8 +44,8 @@ fun_fact: 300+ problems solved, still losing to my own edge cases
 ### 📊 The Numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shuvmraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="shuvmraj stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvmraj&layout=compact&theme=tokyonight&hide_border=true" alt="shuvmraj top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shuvmraj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="shuvmraj stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvmraj&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="shuvmraj top langs" />
 </p>
 
 <p align="center">
@@ -67,12 +53,14 @@ fun_fact: 300+ problems solved, still losing to my own edge cases
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvmraj&theme=tokyo-night&hide_border=true" alt="shuvmraj activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvmraj&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="shuvmraj activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shuvmraj&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="shuvmraj trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shuvmraj&theme=tokyonight&no-frame=true&row=1&margin-w=10&column=7" alt="shuvmraj trophies" />
 </p>
+
+> ℹ️ These cards are generated live by free third-party services (`vercel.app` / `herokuapp.com`). They occasionally time out — if one shows a broken icon, just refresh the page; GitHub re-fetches it. If it stays broken for more than a day, the service itself is down and you can swap in the self-hosted [`lowlighter/metrics`](https://github.com/lowlighter/metrics) action for a version that never goes down.
 
 ---
 
@@ -82,7 +70,7 @@ fun_fact: 300+ problems solved, still losing to my own edge cases
   <img src="https://raw.githubusercontent.com/shuvmraj/shuvmraj/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
-> 💡 To activate this: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your `shuvmraj/shuvmraj` repo — it auto-generates this animated snake from your real contribution graph.
+> 💡 This image stays broken until you activate it: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your `shuvmraj/shuvmraj` repo — it commits this animated snake from your real contribution graph on a schedule. Takes ~2 minutes to set up.
 
 ---
 
@@ -91,6 +79,7 @@ fun_fact: 300+ problems solved, still losing to my own edge cases
 <p align="left">
 <a href="https://linkedin.com/in/shubhamrajcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://shuvmraj.netlify.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="30" width="30" /></a>
+<a href="mailto:shubham1003sinha@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/shuvmraj">shuvmraj</a> — thanks for stopping by</i></p>
