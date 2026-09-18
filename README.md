@@ -44,33 +44,21 @@ fun_fact: 300+ problems solved, still losing to my own edge cases
 ### 📊 The Numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shuvmraj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="shuvmraj stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvmraj&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="shuvmraj top langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvmraj&theme=tokyonight&hide_border=true" alt="shuvmraj streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvmraj&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="shuvmraj activity graph" />
+  <img src="https://img.shields.io/github/followers/shuvmraj?label=Followers&style=for-the-badge&color=0E75B6&labelColor=161B22" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shuvmraj&label=Public%20Repos&query=public_repos&style=for-the-badge&color=0E75B6&labelColor=161B22" alt="public repos" />
+  <img src="https://img.shields.io/badge/CodeChef-2⋆-5B4638?style=for-the-badge&labelColor=161B22" alt="codechef rating" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-300%2B-success?style=for-the-badge&labelColor=161B22" alt="problems solved" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shuvmraj&theme=tokyonight&no-frame=true&row=1&margin-w=10&column=7" alt="shuvmraj trophies" />
+  <img src="https://ghchart.rshah.org/0E75B6/shuvmraj" alt="shuvmraj contribution chart" width="100%" />
 </p>
 
-> ℹ️ These cards are generated live by free third-party services (`vercel.app` / `herokuapp.com`). They occasionally time out — if one shows a broken icon, just refresh the page; GitHub re-fetches it. If it stays broken for more than a day, the service itself is down and you can swap in the self-hosted [`lowlighter/metrics`](https://github.com/lowlighter/metrics) action for a version that never goes down.
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shuvmraj/shuvmraj/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
-
-> 💡 This image stays broken until you activate it: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your `shuvmraj/shuvmraj` repo — it commits this animated snake from your real contribution graph on a schedule. Takes ~2 minutes to set up.
+> ℹ️ The streak card and the badges above are backed by more reliable services, so they should always render. The heatmap and streak card are the "live" ones — if either ever shows a broken icon, a page refresh usually fixes it (GitHub re-fetches on load).
 
 ---
 
